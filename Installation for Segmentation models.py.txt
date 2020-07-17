@@ -1,0 +1,12 @@
+
+
+conda install -c conda-forge tensorflow=1.14
+conda install -c anaconda keras
+conda install -c anaconda spyder
+conda install -c anaconda scikit-learn
+conda install -c anaconda scikit-image
+conda install -c conda-forge opencv
+conda install -c simpleitk simpleitk
+pip install -U segmentation-models
+
+
