@@ -1,6 +1,6 @@
 
 
-conda install -c conda-forge tensorflow=1.14
+conda install -c conda-forge tensorflow-gpu=1.14
 conda install -c anaconda keras
 conda install -c anaconda spyder
 conda install -c anaconda scikit-learn
