@@ -15,4 +15,5 @@ unrar x filenane.rar
 
 
 (base) root@d643428d4d3f:/workspace/shah2/data/Dropbox-Uploader# ./dropbox_uploader.sh upload /workspace/shah2/data/qubiq/try/prostate_weights /
+kill -9 process_id
 
